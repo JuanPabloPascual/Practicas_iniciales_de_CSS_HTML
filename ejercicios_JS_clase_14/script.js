@@ -51,13 +51,15 @@ Dependiendo de la cantidad de alumnos de la clase van a solicitar a cada uno el 
     Si la cantidad de personas de clase es 5, van solicitar 5 nombre
 )
 Luego de solicitar los nombres mostrarlos en este formato:
-'
+
 Lista de alumnos:
 -juan
 -pepe
 -maria
 -carla
 -julieta
+
+alert ('lista: \n-pepe\n-juan')
 
 ----------------------------------------------------------------------------------------------------------------
 
