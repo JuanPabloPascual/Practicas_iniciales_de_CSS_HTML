@@ -74,5 +74,12 @@ Sino debera volver a solicitarlo
 Cuando termine de validar se retornara el numero
 
 
+Ejercicio 5 de la clase 14
+
+obtenerNumero()
+Va a solicitar al usuario un numero y va a validar que el dato ingresado sea un numero
+Sino debera volver a solicitarlo
+Cuando termine de validar se retornara el numero
+
 */
 
